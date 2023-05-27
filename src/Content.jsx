@@ -1,8 +1,8 @@
 import { Home } from "./Home";
-import { Routes, Route } from "react-router-dom";
 import { Invitation } from "./Invitation";
 import { Registry } from "./Registry";
 import { Accommodations } from "./Accommodations";
+import { Routes, Route } from "react-router-dom";
 
 export function Content() {
   return (
